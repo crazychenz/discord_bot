@@ -20,4 +20,4 @@ Run a bot script:
 ./run.sh cat.py
 ```
 
-
+More documentation at [discord.py](https://discordpy.readthedocs.io/en/latest)
